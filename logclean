@@ -15,8 +15,6 @@ sudo journalctl --vacuum-time=2days            #retains logs from the past 2 day
 sudo journalctl --vacuum-size=100M             #limits the space the log takes up to 100mb (again adjustable)
 sudo systemctl daemon-reload                   #reloads the deamon
 
-
-
 ##################
 
 Run the script by enterting the command ./logclean
