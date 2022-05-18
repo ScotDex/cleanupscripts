@@ -19,6 +19,6 @@ sudo systemctl daemon-reload                   #reloads the deamon
 
 ##################
 
-Run the script by enterting the command ./log-journalpurge
+Run the script by enterting the command ./logclean
 
 Dex
