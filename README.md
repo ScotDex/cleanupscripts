@@ -8,8 +8,8 @@ I have also added debug to both scripts which provides commentary on whats going
 
 Script commands to start then.
 
-  *./systemclean
-  *./logclean
+  ```./systemclean```
+  ```./logclean```
 
 Cheers 
 
