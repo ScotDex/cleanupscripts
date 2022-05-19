@@ -6,10 +6,13 @@ They are pretty basic, as I am a systems engineer I am just learning so they wil
 
 I have also added debug to both scripts which provides commentary on whats going on, just as peace of mind :)
 
+Remember to set the file as executable by entering sudo chmod +x *filename*
+
 Script commands to start then.
 
   ```./systemclean```
   ```./logclean```
+  ```./upgrade```
 
 Cheers 
 
