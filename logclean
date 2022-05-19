@@ -13,7 +13,7 @@
 
 # Based on the ubuntu distribution
 
-###############################################################################
+##################
 
 sudo journalctl --rotate                       #all currently active journal files are marked as archived and renamed, so that they are never written to in future.
 sudo journalctl --vacuum-time=2days            #retains logs from the past 2 days only (adjustable)
