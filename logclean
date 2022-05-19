@@ -6,15 +6,12 @@
 # unlimited permission to copy and/or distribute it, with or without
 # modifications, as long as this notice is preserved.
 
+# Run the command - journalctl --disk-usage
 
-###############################################################################
+# This will tell you how much space the journal logs are taking up, the following script is designed to make the logs 
+# run more efficiently and not take up too much space.
 
-Run the command - journalctl --disk-usage
-
-This will tell you how much space the journal logs are taking up, the following script is designed to make the logs 
-run more efficiently and not take up too much space.
-
-Based on the ubuntu distribution
+# Based on the ubuntu distribution
 
 ###############################################################################
 
